@@ -8,7 +8,7 @@
 |---|---|---|---|
 | 2회차 | [write-column](skills/write-column/) | 메모와 자료를 학과 소식지·학보·블로그 칼럼 초안으로 씁니다. 합니다체로 쓰고 점검 7항목으로 스스로 고칩니다 | [write-column.zip](downloads/write-column.zip) |
 | 3회차 | [write-lab-report](skills/write-lab-report/) | 주간 실습 메모를 목적·방법·결과·느낀 점 보고서 초안으로 정리하고, 승인하면 .docx로 만듭니다. 메모에 없는 결과는 "확인 필요"로 표시합니다 | [write-lab-report.zip](downloads/write-lab-report.zip) |
-| 4회차 | [slide-design](skills/slide-design/) | 원문을 장별 기획표로 먼저 보여 주고, 승인하면 정해진 디자인의 16:9 pptx로 조판합니다 | [slide-design.zip](downloads/slide-design.zip) |
+| 4회차 | [slide-design](skills/slide-design/) | 원문과 발표 시간을 받아 결론·흐름 → 장 구성 → 장별 상세를 단계마다 확인받고, 승인하면 장 유형 15종의 16:9 pptx로 조판합니다(발표자 노트 포함) | [slide-design.zip](downloads/slide-design.zip) |
 | 5회차 | [content-research-writer](skills/content-research-writer/) | 리포트·에세이를 개요 → 자료 조사 → 원문 대조 → 절별 피드백 → 최종 점검 순서로 함께 씁니다 | [content-research-writer.zip](downloads/content-research-writer.zip) |
 
 ## 폴더 구성
@@ -18,7 +18,7 @@ claude-agent-master/
 ├── skills/
 │   ├── write-column/             2회차 · SKILL.md + references/writing-rules.md
 │   ├── write-lab-report/         3회차 · SKILL.md
-│   ├── slide-design/             4회차 · SKILL.md + references/ + scripts/build_slides.py
+│   ├── slide-design/             4회차 · SKILL.md + references/(4개 문서) + scripts/build_slides.py
 │   └── content-research-writer/  5회차 · SKILL.md + LICENSE-Apache-2.0.txt
 └── downloads/                    스킬 zip (Claude에 바로 업로드)
 ```
