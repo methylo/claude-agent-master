@@ -7,7 +7,7 @@
 | 회차 | 스킬 | 하는 일 | 내려받기 |
 |---|---|---|---|
 | 2회차 | [write-column](skills/write-column/) | 메모와 자료를 학과 소식지·학보·블로그 칼럼 초안으로 씁니다. 합니다체로 쓰고 점검 7항목으로 스스로 고칩니다 | [write-column.zip](downloads/write-column.zip) |
-| 3회차 | [write-lab-report](skills/write-lab-report/) | 주간 실습 메모를 목적·방법·결과·느낀 점 4칸 보고서 초안으로 정리합니다. 스킬 직접 만들기 실습의 예시본입니다 | [write-lab-report.zip](downloads/write-lab-report.zip) |
+| 3회차 | [write-lab-report](skills/write-lab-report/) | 주간 실습 메모를 목적·방법·결과·느낀 점 보고서 초안으로 정리하고, 승인하면 .docx로 만듭니다. 메모에 없는 결과는 "확인 필요"로 표시합니다 | [write-lab-report.zip](downloads/write-lab-report.zip) |
 | 4회차 | [slide-design](skills/slide-design/) | 원문을 장별 기획표로 먼저 보여 주고, 승인하면 정해진 디자인의 16:9 pptx로 조판합니다 | [slide-design.zip](downloads/slide-design.zip) |
 | 5회차 | [content-research-writer](skills/content-research-writer/) | 리포트·에세이를 개요 → 자료 조사 → 원문 대조 → 절별 피드백 → 최종 점검 순서로 함께 씁니다 | [content-research-writer.zip](downloads/content-research-writer.zip) |
 
