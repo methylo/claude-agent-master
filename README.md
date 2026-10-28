@@ -10,7 +10,7 @@
 | 3회차 | [write-lab-report](skills/write-lab-report/) | 주간 실습 메모를 목적·방법·결과·느낀 점 보고서 초안으로 정리하고, 승인하면 .docx로 만듭니다. 메모에 없는 결과는 "확인 필요"로 표시합니다 | [write-lab-report.zip](downloads/write-lab-report.zip) |
 | 4회차 | [slide-design](skills/slide-design/) | 원문과 발표 시간을 받아 결론·흐름 → 장 구성 → 장별 상세를 단계마다 확인받고, 승인하면 장 유형 15종의 16:9 pptx로 조판합니다(발표자 노트 포함) | [slide-design.zip](downloads/slide-design.zip) |
 | 5회차 | [content-research-writer](skills/content-research-writer/) | 리포트·에세이를 설계 → 근거 확보(근거 장부·원문 대조) → 집필 → 최종 점검 4단계로 함께 씁니다. 기본은 내가 쓰고 피드백을 받으며, 요청하면 확인된 근거로 추천 원고를 씁니다 | [content-research-writer.zip](downloads/content-research-writer.zip) |
-| 7회차 | [research-job-brief](skills/research-job-brief/) | 관심 직무의 최근 7일 채용 공고를 찾아 주간 취업 브리핑 표와 이번 주 할 일 3개로 정리합니다. 공고에 없는 마감일·조건은 지어내지 않습니다. 예약 작업으로 매주 실행할 수 있습니다 | [research-job-brief.zip](downloads/research-job-brief.zip) |
+| 7회차 | [research-job-brief](skills/research-job-brief/) | 내가 정한 채용 사이트 · 지역 · 관심 분야로 오늘 접수 중인 공고를 찾아 주간 취업 브리핑 표와 이번 주 할 일 3개로 정리합니다. 상세 페이지에서 마감 여부를 확인하고, 공고에 없는 마감일 · 조건은 지어내지 않습니다 | [research-job-brief.zip](downloads/research-job-brief.zip) |
 
 ## 폴더 구성
 
