@@ -9,7 +9,7 @@
 | 2회차 | [write-column](skills/write-column/) | 메모와 자료를 학과 소식지·학보·블로그 칼럼 초안으로 씁니다. 합니다체로 쓰고 점검 7항목으로 스스로 고칩니다 | [write-column.zip](downloads/write-column.zip) |
 | 3회차 | [write-lab-report](skills/write-lab-report/) | 주간 실습 메모를 목적·방법·결과·느낀 점 보고서 초안으로 정리하고, 승인하면 .docx로 만듭니다. 메모에 없는 결과는 "확인 필요"로 표시합니다 | [write-lab-report.zip](downloads/write-lab-report.zip) |
 | 4회차 | [slide-design](skills/slide-design/) | 원문과 발표 시간을 받아 결론·흐름 → 장 구성 → 장별 상세를 단계마다 확인받고, 승인하면 장 유형 15종의 16:9 pptx로 조판합니다(발표자 노트 포함) | [slide-design.zip](downloads/slide-design.zip) |
-| 5회차 | [content-research-writer](skills/content-research-writer/) | 리포트·에세이를 개요 → 자료 조사 → 원문 대조 → 절별 피드백 → 최종 점검 순서로 함께 씁니다 | [content-research-writer.zip](downloads/content-research-writer.zip) |
+| 5회차 | [content-research-writer](skills/content-research-writer/) | 리포트·에세이를 설계 → 근거 확보(근거 장부·원문 대조) → 집필 → 최종 점검 4단계로 함께 씁니다. 기본은 내가 쓰고 피드백을 받으며, 요청하면 확인된 근거로 추천 원고를 씁니다 | [content-research-writer.zip](downloads/content-research-writer.zip) |
 
 ## 폴더 구성
 
