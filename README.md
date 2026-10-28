@@ -10,6 +10,7 @@
 | 3회차 | [write-lab-report](skills/write-lab-report/) | 주간 실습 메모를 목적·방법·결과·느낀 점 보고서 초안으로 정리하고, 승인하면 .docx로 만듭니다. 메모에 없는 결과는 "확인 필요"로 표시합니다 | [write-lab-report.zip](downloads/write-lab-report.zip) |
 | 4회차 | [slide-design](skills/slide-design/) | 원문과 발표 시간을 받아 결론·흐름 → 장 구성 → 장별 상세를 단계마다 확인받고, 승인하면 장 유형 15종의 16:9 pptx로 조판합니다(발표자 노트 포함) | [slide-design.zip](downloads/slide-design.zip) |
 | 5회차 | [content-research-writer](skills/content-research-writer/) | 리포트·에세이를 설계 → 근거 확보(근거 장부·원문 대조) → 집필 → 최종 점검 4단계로 함께 씁니다. 기본은 내가 쓰고 피드백을 받으며, 요청하면 확인된 근거로 추천 원고를 씁니다 | [content-research-writer.zip](downloads/content-research-writer.zip) |
+| 7회차 | [research-job-brief](skills/research-job-brief/) | 관심 직무의 최근 7일 채용 공고를 찾아 주간 취업 브리핑 표와 이번 주 할 일 3개로 정리합니다. 공고에 없는 마감일·조건은 지어내지 않습니다. 예약 작업으로 매주 실행할 수 있습니다 | [research-job-brief.zip](downloads/research-job-brief.zip) |
 
 ## 폴더 구성
 
@@ -19,7 +20,8 @@ claude-agent-master/
 │   ├── write-column/             2회차 · SKILL.md + references/writing-rules.md
 │   ├── write-lab-report/         3회차 · SKILL.md
 │   ├── slide-design/             4회차 · SKILL.md + references/(4개 문서) + scripts/build_slides.py
-│   └── content-research-writer/  5회차 · SKILL.md + LICENSE-Apache-2.0.txt
+│   ├── content-research-writer/  5회차 · SKILL.md + LICENSE-Apache-2.0.txt
+│   └── research-job-brief/       7회차 · SKILL.md + references/(my-info · sources)
 └── downloads/                    스킬 zip (Claude에 바로 업로드)
 ```
 
@@ -36,7 +38,7 @@ slide-design은 조판할 때 Python과 python-pptx를 씁니다. python-pptx가
 
 ## 라이선스
 
-- write-column, write-lab-report, slide-design: CC BY-NC 4.0 ([LICENSE](LICENSE)). 비상업 목적으로 공유·수정할 수 있으며 출처를 표시해야 합니다.
+- write-column, write-lab-report, slide-design, research-job-brief: CC BY-NC 4.0 ([LICENSE](LICENSE)). 비상업 목적으로 공유·수정할 수 있으며 출처를 표시해야 합니다.
 - content-research-writer: [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)의 content-research-writer(Apache-2.0)를 한국어화하고 범위 확인 검색·원문 대조 절차·국내 인용 양식을 더한 수정판입니다. Apache License 2.0을 따르며 전문은 [LICENSE-Apache-2.0.txt](skills/content-research-writer/LICENSE-Apache-2.0.txt)에 있습니다.
 
 Copyright (c) 2026 HONGS LAB (홍순성)
