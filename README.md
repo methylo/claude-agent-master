@@ -1,6 +1,6 @@
 # 클로드 마스터 하기 — 실습 스킬 모음
 
-스마트소셜 OD 「클로드 마스터 하기」(12회차) 강의에서 쓰는 실습 스킬입니다. 스킬 폴더는 `skills/`에 있고, 바로 올려 쓸 수 있는 zip 파일은 `downloads/`에 있습니다.
+스마트소셜 OD 「클로드 마스터 하기」(12회차) 강의에서 쓰는 실습 스킬입니다. 스킬 폴더는 `skills/`, 스킬이 아닌 실습 자료는 `practice/`에 있고, 바로 내려받을 zip 파일은 `downloads/`에 있습니다.
 
 ## 스킬 목록
 
@@ -12,6 +12,15 @@
 | 5회차 | [content-research-writer](skills/content-research-writer/) | 리포트·에세이를 설계 → 근거 확보(근거 장부·원문 대조) → 집필 → 최종 점검 4단계로 함께 씁니다. 기본은 내가 쓰고 피드백을 받으며, 요청하면 확인된 근거로 추천 원고를 씁니다 | [content-research-writer.zip](downloads/content-research-writer.zip) |
 | 7회차 | [research-job-brief](skills/research-job-brief/) | 내가 정한 채용 사이트 · 지역 · 관심 분야로 오늘 접수 중인 공고를 찾아 주간 취업 브리핑 표와 이번 주 할 일 3개로 정리합니다. 상세 페이지에서 마감 여부를 확인하고, 공고에 없는 마감일 · 조건은 지어내지 않습니다 | [research-job-brief.zip](downloads/research-job-brief.zip) |
 
+## 실습 자료 (스킬 아님)
+
+| 회차 | 자료 | 쓰는 법 | 내려받기 |
+|---|---|---|---|
+| 6회차 | [과제 폴더](practice/session-06/과제%20폴더/) | 데이터베이스 팀플 과제가 흩어진 모습의 가상 md 노트 9개. 압축을 풀어 바탕화면에 두고 클로드 폴더 연결 실습에 씁니다 | [06_과제폴더.zip](downloads/06_과제폴더.zip) |
+| 9회차 | [볼트에 넣을 파일](practice/session-09/09_볼트에_넣을_파일/) | 8회차 볼트에 넣을 보고서 질문 1개, 자료 노트 6개, 9회차판 CLAUDE.md. 압축을 풀어 같은 이름의 칸에 넣습니다 | [09_볼트에_넣을_파일.zip](downloads/09_볼트에_넣을_파일.zip) |
+
+실습 자료의 노트는 가상 예시이거나 공개 자료를 요약한 노트입니다. 원문 PDF는 넣지 않았으니 각 노트의 url에서 직접 엽니다.
+
 ## 폴더 구성
 
 ```text
@@ -22,7 +31,8 @@ claude-agent-master/
 │   ├── slide-design/             4회차 · SKILL.md + references/(4개 문서) + scripts/build_slides.py
 │   ├── content-research-writer/  5회차 · SKILL.md + LICENSE-Apache-2.0.txt
 │   └── research-job-brief/       7회차 · SKILL.md + references/(my-info · sources)
-└── downloads/                    스킬 zip (Claude에 바로 업로드)
+├── practice/                     스킬이 아닌 실습 자료 (6회차 과제 폴더 · 9회차 볼트에 넣을 파일)
+└── downloads/                    스킬 zip (Claude에 바로 업로드) + 실습 자료 zip
 ```
 
 ## 설치 방법
@@ -38,7 +48,7 @@ slide-design은 조판할 때 Python과 python-pptx를 씁니다. python-pptx가
 
 ## 라이선스
 
-- write-column, write-lab-report, slide-design, research-job-brief: CC BY-NC 4.0 ([LICENSE](LICENSE)). 비상업 목적으로 공유·수정할 수 있으며 출처를 표시해야 합니다.
+- write-column, write-lab-report, slide-design, research-job-brief, practice/의 실습 자료: CC BY-NC 4.0 ([LICENSE](LICENSE)). 비상업 목적으로 공유·수정할 수 있으며 출처를 표시해야 합니다.
 - content-research-writer: [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)의 content-research-writer(Apache-2.0)를 한국어화하고 범위 확인 검색·원문 대조 절차·국내 인용 양식을 더한 수정판입니다. Apache License 2.0을 따르며 전문은 [LICENSE-Apache-2.0.txt](skills/content-research-writer/LICENSE-Apache-2.0.txt)에 있습니다.
 
 Copyright (c) 2026 HONGS LAB (홍순성)
