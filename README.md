@@ -17,7 +17,8 @@
 | 회차 | 자료 | 쓰는 법 | 내려받기 |
 |---|---|---|---|
 | 6회차 | [과제 폴더](practice/session-06/과제%20폴더/) | 데이터베이스 팀플 과제가 흩어진 모습의 가상 md 노트 9개. 압축을 풀어 바탕화면에 두고 클로드 폴더 연결 실습에 씁니다 | [06_과제폴더.zip](downloads/06_과제폴더.zip) |
-| 9회차 | [볼트에 넣을 파일](practice/session-09/09_볼트에_넣을_파일/) | 8회차 볼트에 넣을 보고서 질문 1개, 자료 노트 6개, 9회차판 CLAUDE.md. 압축을 풀어 같은 이름의 칸에 넣습니다 | [09_볼트에_넣을_파일.zip](downloads/09_볼트에_넣을_파일.zip) |
+| 9회차 · 8회차 볼트 있음 | [볼트에 넣을 파일](practice/session-09/09_볼트에_넣을_파일/) | 8회차 볼트에 넣을 보고서 질문 1개, 자료 노트 6개, 9회차판 CLAUDE.md. 압축을 풀어 같은 이름의 칸에 넣습니다 | [09_볼트에_넣을_파일.zip](downloads/09_볼트에_넣을_파일.zip) |
+| 9회차 · 8회차 볼트 없음 | [2026-2학기 볼트](practice/session-09/2026-2학기/) | 위 파일에 학기 지도와 빈 칸(02 정리 · 03 출력 · 04 보관 · 99 첨부)까지 갖춘 전체 실습 볼트. 바탕화면에 풀어 옵시디언 볼트로 엽니다 | [09_학기볼트.zip](downloads/09_학기볼트.zip) |
 
 실습 자료의 노트는 가상 예시이거나 공개 자료를 요약한 노트입니다. 원문 PDF는 넣지 않았으니 각 노트의 url에서 직접 엽니다.
 
@@ -31,7 +32,7 @@ claude-agent-master/
 │   ├── slide-design/             4회차 · SKILL.md + references/(4개 문서) + scripts/build_slides.py
 │   ├── content-research-writer/  5회차 · SKILL.md + LICENSE-Apache-2.0.txt
 │   └── research-job-brief/       7회차 · SKILL.md + references/(my-info · sources)
-├── practice/                     스킬이 아닌 실습 자료 (6회차 과제 폴더 · 9회차 볼트에 넣을 파일)
+├── practice/                     스킬이 아닌 실습 자료 (6회차 과제 폴더 · 9회차 볼트에 넣을 파일 · 9회차 전체 볼트)
 └── downloads/                    스킬 zip (Claude에 바로 업로드) + 실습 자료 zip
 ```
 
